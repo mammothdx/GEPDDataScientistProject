@@ -15,11 +15,19 @@ The data set represents a list of spacers (the CRISPR part that is being searche
 4. Show importance of features in the set and make an educated guess for how the biased dataset was created.
 
 
-## Questions
+## Questions (no need to answer in the response, for future discussion)
 
 1. How did you select the model, what makes this model better then others?
 2. what make a good biochemichal feature set? What aspect of the RNA sequence did you test?
 3. What other features could be added if the repeat / tracrRNA sequence were given?
+
+
+## What do I send?
+
+A single zip file containing a:
+1. requirement.txt file with the neccesery python packages
+2. a jupyter notebook the contains anything from reading the CSV file, calculating the features, running the model and visualization of the results
+
 
 
 GOOD LUCK, I hope you enjoy this small toy problem :)
