@@ -11,7 +11,7 @@ The data set represents a list of spacers (the CRISPR part that is being searche
 
 1. Select and calculate a feature set
 2. Select a model and train him on the given data
-3. Show a consistent prediction rate of over 90% on a test set comprising 30% of the data
+3. Show a consistent prediction rate on a test set comprising 30% of the data
 4. Show importance of features in the set and make an educated guess for how the biased dataset was created.
 
 
